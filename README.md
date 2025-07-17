@@ -192,10 +192,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+**ISAM CHAJIA**
+- LinkedIn: [isam chajia](https://linkedin.com/in/isam-chajia)
 
 ## 🙏 Acknowledgments
 
