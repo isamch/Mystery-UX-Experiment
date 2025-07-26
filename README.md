@@ -1,20 +1,23 @@
-# 🌀 Mystery UX Experiment
+# IC UX
 
-> **An experimental portfolio website that pushes the boundaries of web design and user experience**
+> **Portfolio website with modern design and advanced web technologies**
 
 [![React](https://img.shields.io/badge/React-18.3.1-61DAFB?logo=react)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-3178C6?logo=typescript)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.4.2-646CFF?logo=vite)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.1-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
 
-## 🌟 Overview
+## Overview
 
-**Mystery UX Experiment** is a cutting-edge portfolio website that combines futuristic design with advanced web technologies. Built with a cyberpunk aesthetic, this project showcases experimental user interfaces, interactive animations, and innovative web experiences that challenge conventional design paradigms.
+**IC UX** is a modern portfolio website that combines contemporary design with advanced web technologies. Built with a sleek and professional aesthetic, this project showcases modern user interfaces and interactive elements.
 
-### ✨ Key Features
+### Key Features
 
-- **🎨 Cyberpunk Aesthetic**: Dark theme with neon accents and glitch effects
-- **⚡ Interactive Animations**: Particle cursors, matrix rain, and parallax scrolling
+- **Cyberpunk Aesthetic**: Dark theme with neon accents and glitch effects
+- **Interactive Animations**: Particle cursors, matrix rain, and parallax scrolling
+- **Responsive Design**: Optimized for all devices and screen sizes
+- **Experimental UI**: Hidden menus, glitch text effects, and hover interactions
+- **Performance Optimized**: Built with Vite for lightning-fast development and builds
 - **📱 Responsive Design**: Optimized for all devices and screen sizes
 - **🎭 Experimental UI**: Hidden menus, glitch text effects, and hover interactions
 - **🚀 Performance Optimized**: Built with Vite for lightning-fast development and builds

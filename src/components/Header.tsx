@@ -27,25 +27,22 @@ export const Header: React.FC<HeaderProps> = ({ onMenuToggle, currentPage, onPag
     <header className="fixed top-0 left-0 right-0 z-30 bg-black/20 backdrop-blur-md border-b border-gray-800/50">
       <div className="max-w-6xl mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
-          {/* Logo/Brand */}
           <div className="flex items-center space-x-4">
             <div 
               className="cursor-pointer group"
               onClick={() => onPageChange('home')}
             >
               <div className="text-2xl font-bold bg-gradient-to-r from-cyan-400 to-purple-500 bg-clip-text text-transparent group-hover:from-cyan-500 group-hover:to-purple-600 transition-all duration-300">
-                MYSTERY UX
+                IC UX
               </div>
             </div>
             
-            {/* Current Page Indicator */}
             <div className="hidden md:flex items-center space-x-2 text-sm text-gray-400">
               <span className="text-cyan-400">{pageIcons[currentPage]}</span>
               <span>{pageTitles[currentPage]}</span>
             </div>
           </div>
           
-          {/* Navigation Links */}
           <nav className="hidden md:flex items-center space-x-6">
             {Object.entries(pageTitles).map(([page, title]) => (
               <button
